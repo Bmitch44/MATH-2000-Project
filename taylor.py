@@ -11,13 +11,14 @@ class TaylorSeries(MovingCameraScene):
         taylor_terms = []
         for line in lines[:10]:
             # Split the line by the pipe delimiter
-            n, fn_x, fn_1, tn_x = line.strip().split("|")
+            n, fn_x, fn_1, tn_x, an1 = line.strip().split("|")
 
             # Create the three MathTex objects
             n_term = MathTex(f"{n}")
             fn_x_term = MathTex(f"{fn_x}")
             fn_1_term = MathTex(f"{fn_1}")
             tn_x_term = MathTex(f"{tn_x}")
+            an1_term = MathTex(f"{an1}")
 
             # Create the VGroup for this line and position the terms
             line_group = VGroup(n_term, fn_x_term, fn_1_term, tn_x_term).arrange(DOWN, aligned_edge=LEFT, buff=0.5)

@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/bradymitchelmore/Documents/Code/math_2000_project/media/videos/intro/1080p60/partial_movie_files/Intro/1413466013_618793063_223132457.mp4'
+file 'file:/Users/bradymitchelmore/Documents/Code/math_2000_project/media/videos/intro/1080p60/partial_movie_files/Intro/1672018281_125286499_688645853.mp4'
+file 'file:/Users/bradymitchelmore/Documents/Code/math_2000_project/media/videos/intro/1080p60/partial_movie_files/Intro/1672018281_246574708_282393003.mp4'

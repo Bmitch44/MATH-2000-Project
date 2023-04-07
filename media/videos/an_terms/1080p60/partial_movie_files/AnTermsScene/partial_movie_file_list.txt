@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/bradymitchelmore/Documents/Code/math_2000_project/media/videos/an_terms/1080p60/partial_movie_files/AnTermsScene/1413466013_827184450_223132457.mp4'
+file 'file:/Users/bradymitchelmore/Documents/Code/math_2000_project/media/videos/an_terms/1080p60/partial_movie_files/AnTermsScene/1672018281_125286499_323394966.mp4'
+file 'file:/Users/bradymitchelmore/Documents/Code/math_2000_project/media/videos/an_terms/1080p60/partial_movie_files/AnTermsScene/1672018281_2904246028_282393003.mp4'
+file 'file:/Users/bradymitchelmore/Documents/Code/math_2000_project/media/videos/an_terms/1080p60/partial_movie_files/AnTermsScene/1672018281_4029881953_223132457.mp4'
+file 'file:/Users/bradymitchelmore/Documents/Code/math_2000_project/media/videos/an_terms/1080p60/partial_movie_files/AnTermsScene/1672018281_804199389_769594126.mp4'
+file 'file:/Users/bradymitchelmore/Documents/Code/math_2000_project/media/videos/an_terms/1080p60/partial_movie_files/AnTermsScene/1672018281_3079140769_4229030249.mp4'
+file 'file:/Users/bradymitchelmore/Documents/Code/math_2000_project/media/videos/an_terms/1080p60/partial_movie_files/AnTermsScene/1672018281_2350480417_3685284913.mp4'
+file 'file:/Users/bradymitchelmore/Documents/Code/math_2000_project/media/videos/an_terms/1080p60/partial_movie_files/AnTermsScene/1672018281_125286499_2884565300.mp4'
